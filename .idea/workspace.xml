@@ -6,9 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30751dbd-18e4-4386-bf4a-24b2abe0653d" name="Default" comment="">
+    <list default="true" id="30751dbd-18e4-4386-bf4a-24b2abe0653d" name="Default" comment="修改了工程信息">
       <change beforePath="$PROJECT_DIR$/../maven/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../maven/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../maven/dao/src/main/java/com/itheima/domain/Items.java" afterPath="$PROJECT_DIR$/../maven/dao/src/main/java/com/itheima/domain/Items.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -77,8 +76,8 @@
       <file leaf-file-name="Items.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../maven/dao/src/main/java/com/itheima/domain/Items.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="68" column="19" lean-forward="true" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+            <state relative-caret-position="149">
+              <caret line="56" column="36" lean-forward="false" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
               <folding>
                 <element signature="e#1005#1006#0" expanded="true" />
                 <element signature="e#1041#1042#0" expanded="true" />
@@ -557,7 +556,7 @@
       <workItem from="1550153730905" duration="3890000" />
       <workItem from="1550192446623" duration="28000" />
       <workItem from="1550312019502" duration="3709000" />
-      <workItem from="1550316086726" duration="1337000" />
+      <workItem from="1550316086726" duration="1564000" />
     </task>
     <task id="LOCAL-00001" summary="添加工程添加到git">
       <created>1550317656230</created>
@@ -566,11 +565,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550317656230</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改了工程信息">
+      <created>1550317787117</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550317787117</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8964000" />
+    <option name="totallyTimeSpent" value="9191000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="936" y="1" width="1060" height="1102" extended-state="0" />
@@ -617,7 +623,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加工程添加到git" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加工程添加到git" />
+    <MESSAGE value="修改了工程信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了工程信息" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -801,8 +808,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../maven/dao/src/main/java/com/itheima/domain/Items.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="68" column="19" lean-forward="true" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+        <state relative-caret-position="149">
+          <caret line="56" column="36" lean-forward="false" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
           <folding>
             <element signature="e#1005#1006#0" expanded="true" />
             <element signature="e#1041#1042#0" expanded="true" />
